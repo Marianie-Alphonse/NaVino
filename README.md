@@ -54,8 +54,3 @@ We welcome contributions to NaVino! If you have suggestions for improvements, bu
 4.  Commit your changes (`git commit -m 'Add some feature'`).
 5.  Push to the branch (`git push origin feature/YourFeature`).
 6.  Open a Pull Request.
-
-## License
-[Consider adding a license file to your repository, such as MIT, Apache 2.0, or GPL.]
-
-This project is licensed under the [Your Chosen License Name] - see the `LICENSE` file for details.
